@@ -9,7 +9,7 @@ This website has 7 pages which includes:
     4. Logout
     5. SignUp
     6. View Cart
-    7. About Us
+    7. About Us  
   
   
 Main page for this website is index.html. This website uses concept of html, java script and css.
